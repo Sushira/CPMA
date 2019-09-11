@@ -16,7 +16,7 @@ Change index.js and the config.xml file, paste your favourite icon picture insid
 
 
 --To install multiple apps without uninstalling the old one, change the 'id' attribute of widget tag in config.xml file.
---The <name> tag specifies the app name
+The 'name' tag specifies the app name.
         
  Do visit https://cordova.apache.org/ and https://cordova.apache.org/docs/en/latest/ 
   
