@@ -21,3 +21,7 @@ The 'name' tag specifies the app name.
  Do visit https://cordova.apache.org/ and https://cordova.apache.org/docs/en/latest/ 
   
   :)
+
+
+
+*I do not own any of the images or audio used in the applications.(IDK if this was necessary :|)
