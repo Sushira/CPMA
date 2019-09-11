@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Battery Status</title>
+</head>
+
+<script>
+    function stat()
+    {
+        window.addEventListener("batterystatus", battest);
+    }
+    function battest(info)
+    {
+        alert("Battery: ");
+        alert("Level: "+info.level +"Is Plugged: "+info.isPlugged);
+    }
+</script>
+<body>
+    <center>
+        <img src="pic.png" style="width: 300px; height: 300px;"><br><br>
+        <button style="font-size: 20px" onclick="stat()">Check battery status</button>        
+    </center>
+<script type="text/javascript" src="cordova.js"></script>
+</body>
+</html>
