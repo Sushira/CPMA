@@ -23,6 +23,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <!-- Tricks for icon -->
+    <!-- To change icon -->
     <icon src="img/cal.png" />
 </widget>
